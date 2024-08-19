@@ -1,5 +1,5 @@
 # Rainbow2024p4
-This is a poem about Berserk
+This is a poem about Rainbow
 Red 
 Orange
 Yellow
