@@ -3,6 +3,7 @@ This is a poem about Berserk
 Red 
 Orange
 Yellow
+Green
 Blue
 Indigo
 Violet
